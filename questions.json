@@ -1,0 +1,51 @@
+{
+    "groups": [
+      {
+        "name": "Toilet",
+        "questions": [
+          {
+            "text": "Is it important to keep the toilet clean?",
+            "shouldAgree": true
+          },
+          {
+            "text": "Should you flush the toilet after use?",
+            "shouldAgree": true
+          },
+          {
+            "text": "Is it okay to not wash your hands after using the toilet?",
+            "shouldAgree": false
+          }
+        ]
+      },
+      {
+        "name": "Bedroom",
+        "questions": [
+          {
+            "text": "Should you make your bed every morning?",
+            "shouldAgree": true
+          },
+          {
+            "text": "Is it okay to eat in bed?",
+            "shouldAgree": false
+          },
+          {
+            "text": "Is it important to keep the bedroom clean?",
+            "shouldAgree": true
+          },
+          {
+            "text": "Should you open the windows in the bedroom daily?",
+            "shouldAgree": true
+          },
+          {
+            "text": "Is it fine to leave clothes on the floor?",
+            "shouldAgree": false
+          },
+          {
+            "text": "Should you vacuum the bedroom regularly?",
+            "shouldAgree": true
+          }
+        ]
+      }
+    ]
+  }
+  

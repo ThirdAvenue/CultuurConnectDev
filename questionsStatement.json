@@ -1,0 +1,32 @@
+{
+  "Questions": [
+    {
+      "image": "/statementImages/Fout_Eten.png",
+      "shouldAgree": false
+    },
+    {
+      "image": "/statementImages/Fout_JasGrond.png",
+      "shouldAgree": false
+    },
+    {
+      "image": "/statementImages/Fout_Kletsen.png",
+      "shouldAgree": false
+    },
+    {
+      "image": "/statementImages/Fout_Rennen.png",
+      "shouldAgree": false
+    },
+    {
+      "image": "/statementImages/Juist_JasKapstok.png",
+      "shouldAgree": true
+    },
+    {
+      "image": "/statementImages/Juist_Klappen.png",
+      "shouldAgree": true
+    },
+    {
+      "image": "/statementImages/juist_Wassen.png",
+      "shouldAgree": true
+    }
+  ]
+}
